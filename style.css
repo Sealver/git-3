@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    text-align: center;
+    background-color: greenyellow;
+    height: 500px;
+}
+h2, p{
+    padding-top: 100px;
+}
